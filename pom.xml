@@ -10,7 +10,6 @@
 
   <properties>
     <com.squareup.retrofit2.version>2.3.0</com.squareup.retrofit2.version>
-    <java.version>1.8</java.version>
   </properties>
 
   <dependencies>
